@@ -28,13 +28,3 @@ than one promise…
   * Grab that ID from the session response and send an HTTP GET request toyour database on port 7001 to the url `localhost:7001/<id>`.
   * If successfully done, your database will return a user object.`console.log` it to win many nerd-points.
 
-
- » To print these instructions again, run: promise-it-wont-hurt print
- » To execute your program in a test environment, run: promise-it-wont-hurt run program.js
- » To verify your program, run: promise-it-wont-hurt verify program.js
- » For help run: promise-it-wont-hurt help
-
-
-
-Aseel@DESKTOP-J4G0PHN MINGW64 /d/Aseel/Programming/Javascript/Courses/NodeSchool/promise-shop
-$
